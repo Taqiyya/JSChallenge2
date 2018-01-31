@@ -1,5 +1,6 @@
 
 // return list of children on santas list 
+// https://stackoverflow.com/questions/43176067/javascript-object-list-take-a-name-and-a-list-then-return-list-of-all-names-et
 
 function findChildren(santasList, children) {
     
